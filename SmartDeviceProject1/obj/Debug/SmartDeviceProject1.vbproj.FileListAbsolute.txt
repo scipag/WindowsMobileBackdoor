@@ -1,0 +1,10 @@
+C:\Users\scip\AppData\Local\Temporary Projects\SmartDeviceProject1\bin\Debug\SmartDeviceProject1.exe
+C:\Users\scip\AppData\Local\Temporary Projects\SmartDeviceProject1\bin\Debug\SmartDeviceProject1.pdb
+C:\Users\scip\AppData\Local\Temporary Projects\SmartDeviceProject1\bin\Debug\SmartDeviceProject1.xml
+C:\Users\scip\AppData\Local\Temporary Projects\SmartDeviceProject1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\scip\AppData\Local\Temporary Projects\SmartDeviceProject1\obj\Debug\SmartDeviceProject1.Form1.resources
+C:\Users\scip\AppData\Local\Temporary Projects\SmartDeviceProject1\obj\Debug\SmartDeviceProject1.Resources.resources
+C:\Users\scip\AppData\Local\Temporary Projects\SmartDeviceProject1\obj\Debug\SmartDeviceProject1.vbproj.GenerateResource.Cache
+C:\Users\scip\AppData\Local\Temporary Projects\SmartDeviceProject1\obj\Debug\SmartDeviceProject1.exe
+C:\Users\scip\AppData\Local\Temporary Projects\SmartDeviceProject1\obj\Debug\SmartDeviceProject1.xml
+C:\Users\scip\AppData\Local\Temporary Projects\SmartDeviceProject1\obj\Debug\SmartDeviceProject1.pdb

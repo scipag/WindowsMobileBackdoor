@@ -1,0 +1,24 @@
+C:\Users\scip\AppData\Local\Temporary Projects\SmartDeviceProject1\bin\Release\SmartDeviceProject1.exe
+C:\Users\scip\AppData\Local\Temporary Projects\SmartDeviceProject1\bin\Release\SmartDeviceProject1.pdb
+C:\Users\scip\AppData\Local\Temporary Projects\SmartDeviceProject1\bin\Release\SmartDeviceProject1.xml
+C:\Users\scip\AppData\Local\Temporary Projects\SmartDeviceProject1\obj\Release\ResolveAssemblyReference.cache
+C:\Users\scip\AppData\Local\Temporary Projects\SmartDeviceProject1\obj\Release\SmartDeviceProject1.Form1.resources
+C:\Users\scip\AppData\Local\Temporary Projects\SmartDeviceProject1\obj\Release\SmartDeviceProject1.Resources.resources
+C:\Users\scip\AppData\Local\Temporary Projects\SmartDeviceProject1\obj\Release\SmartDeviceProject1.vbproj.GenerateResource.Cache
+C:\Users\scip\AppData\Local\Temporary Projects\SmartDeviceProject1\obj\Release\SmartDeviceProject1.exe
+C:\Users\scip\AppData\Local\Temporary Projects\SmartDeviceProject1\obj\Release\SmartDeviceProject1.xml
+C:\Users\scip\AppData\Local\Temporary Projects\SmartDeviceProject1\obj\Release\SmartDeviceProject1.pdb
+C:\Users\scip\Documents\Visual Studio 2008\Projects\SmartDeviceProject1\SmartDeviceProject1\bin\Release\SmartDeviceProject1.exe
+C:\Users\scip\Documents\Visual Studio 2008\Projects\SmartDeviceProject1\SmartDeviceProject1\bin\Release\SmartDeviceProject1.pdb
+C:\Users\scip\Documents\Visual Studio 2008\Projects\SmartDeviceProject1\SmartDeviceProject1\bin\Release\SmartDeviceProject1.xml
+C:\Users\scip\Documents\Visual Studio 2008\Projects\SmartDeviceProject1\SmartDeviceProject1\obj\Release\ResolveAssemblyReference.cache
+C:\Users\scip\Documents\Visual Studio 2008\Projects\SmartDeviceProject1\SmartDeviceProject1\obj\Release\SmartDeviceProject1.Form1.resources
+C:\Users\scip\Documents\Visual Studio 2008\Projects\SmartDeviceProject1\SmartDeviceProject1\obj\Release\SmartDeviceProject1.Resources.resources
+C:\Users\scip\Documents\Visual Studio 2008\Projects\SmartDeviceProject1\SmartDeviceProject1\obj\Release\SmartDeviceProject1.vbproj.GenerateResource.Cache
+C:\Users\scip\Documents\Visual Studio 2008\Projects\SmartDeviceProject1\SmartDeviceProject1\obj\Release\SmartDeviceProject1.exe
+C:\Users\scip\Documents\Visual Studio 2008\Projects\SmartDeviceProject1\SmartDeviceProject1\obj\Release\SmartDeviceProject1.xml
+C:\Users\scip\Documents\Visual Studio 2008\Projects\SmartDeviceProject1\SmartDeviceProject1\obj\Release\SmartDeviceProject1.pdb
+C:\Users\scip\Documents\Visual Studio 2008\Projects\SmartDeviceProject1\SmartDeviceProject1\bin\Release\Microsoft.WindowsMobile.PocketOutlook.dll
+C:\Users\scip\Documents\Visual Studio 2008\Projects\SmartDeviceProject1\SmartDeviceProject1\bin\Release\Microsoft.WindowsMobile.dll
+C:\Users\scip\Documents\Visual Studio 2008\Projects\SmartDeviceProject1\SmartDeviceProject1\bin\Release\Microsoft.WindowsMobile.xml
+C:\Users\scip\Documents\Visual Studio 2008\Projects\SmartDeviceProject1\SmartDeviceProject1\bin\Release\Microsoft.WindowsMobile.PocketOutlook.xml
